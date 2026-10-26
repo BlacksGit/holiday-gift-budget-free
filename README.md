@@ -4,7 +4,7 @@ Suggestions only. Set limits that fit your own budget.
 
 ## Set the total first
 
-Decide the total you can spend, then work backward. Subtract what you already saved. Divide what is left by the weeks until December to see your weekly savings target.
+Decide the total you can spend, then work backward. Not sure how to split it? The free [Christmas gift budget splitter](https://blacksgit.github.io/gift-budget/) gives a fair amount per person and a weekly savings target. Subtract what you already saved. Divide what is left by the weeks until December to see your weekly savings target.
 
 ## Budget categories people forget
 
