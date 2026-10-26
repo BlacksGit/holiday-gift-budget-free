@@ -30,6 +30,6 @@ Draw names for the extended family. Set a per-person limit. Give an experience o
 
 ## Want the printable planner?
 
-The **Holiday Gift List and Budget Planner** has the total budget, a two-page gift list, shopping tracker, card list, menu and party planner and countdown: https://spectre5.gumroad.com/l/PLACEHOLDER ($5)
+The **Holiday Gift List and Budget Planner** has the total budget, a two-page gift list, shopping tracker, card list, menu and party planner and countdown: https://payhip.com/b/KUdnC ($5)
 
 More guides: https://patreon.com/123black
