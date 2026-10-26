@@ -36,4 +36,6 @@ The **Christmas Gift Planner** (Excel + Google Sheets) gives every person a budg
 
 The **Holiday Gift List and Budget Planner** has the total budget, a two-page gift list, shopping tracker, card list, menu and party planner and countdown: https://payhip.com/b/KUdnC ($5)
 
+Hosting Thanksgiving first? Free planner for turkey size, thaw day and an oven timeline: https://blacksgit.github.io/thanksgiving/
+
 More guides: https://patreon.com/123black
