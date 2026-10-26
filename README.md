@@ -28,6 +28,10 @@ Write every person, a gift idea and a limit before you shop. Record what you spe
 
 Draw names for the extended family. Set a per-person limit. Give an experience or a homemade gift. Buy early to spread the cost. Compare prices before you buy. Skip shipping with store pickup. Use cash envelopes for gifts.
 
+## Want a spreadsheet that tracks it for you?
+
+The **Christmas Gift Planner** (Excel + Google Sheets) gives every person a budget, tracks each gift from idea to wrapped, warns about late packages and adds up deal savings: https://payhip.com/b/j9IsG ($7)
+
 ## Want the printable planner?
 
 The **Holiday Gift List and Budget Planner** has the total budget, a two-page gift list, shopping tracker, card list, menu and party planner and countdown: https://payhip.com/b/KUdnC ($5)
